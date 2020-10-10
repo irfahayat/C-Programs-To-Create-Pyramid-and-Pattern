@@ -1,4 +1,4 @@
-# C-Programs-To-Create-Pyramid-and-Pattern
+# C-Program-To-Create-Pyramid-and-Pattern
 
 #include <iostream>
 using namespace std;
